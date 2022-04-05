@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hansomxue99&#39;s blog</title>
+    <link>https://meik2333.com/</link>
+    <description>Recent content on Hansomxue99&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 05 Apr 2022 12:21:48 +0800</lastBuildDate><atom:link href="https://meik2333.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>作业提交统计工具</title>
+      <link>https://meik2333.com/post/zuoyetonji/</link>
+      <pubDate>Tue, 05 Apr 2022 12:21:48 +0800</pubDate>
+      
+      <guid>https://meik2333.com/post/zuoyetonji/</guid>
+      <description>基于python设计了一个简单的作业提交统计工具</description>
+    </item>
+    
+    <item>
+      <title>C#-录音</title>
+      <link>https://meik2333.com/post/capturesound/</link>
+      <pubDate>Tue, 05 Apr 2022 12:16:35 +0800</pubDate>
+      
+      <guid>https://meik2333.com/post/capturesound/</guid>
+      <description>利用C#实现声卡录音的驱动代码</description>
+    </item>
+    
+    <item>
+      <title>ARM-learning</title>
+      <link>https://meik2333.com/post/arm-learning/</link>
+      <pubDate>Tue, 05 Apr 2022 12:13:31 +0800</pubDate>
+      
+      <guid>https://meik2333.com/post/arm-learning/</guid>
+      <description>参加蓝桥杯嵌入式的驱动代码总结</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://meik2333.com/post/my-first-post/</link>
+      <pubDate>Mon, 04 Apr 2022 21:13:18 +0800</pubDate>
+      
+      <guid>https://meik2333.com/post/my-first-post/</guid>
+      <description>hello!</description>
+    </item>
+    
+  </channel>
+</rss>
